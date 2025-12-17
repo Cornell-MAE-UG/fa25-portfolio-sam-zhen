@@ -3,7 +3,7 @@ layout: project
 title: FA25 - MAE 4272 - Blade Design
 description: Design Project
 technologies: [Autodesk Fusion, MATLAB]
-image: /assets/images/project.png
+image:  '/assets/images/project.png'
 ---
 
 <h3> Project Overview </h3>
